@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[soc:home|Door43 (soc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-soc|d43-soc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-soc/archive/master.zip|d43-soc.zip]]
+
+**Recent Changes**
+{{changes>ns = soc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/soc|Ethnologue data]]
+
